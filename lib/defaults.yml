@@ -12,7 +12,7 @@ directories:
   - "test"
 files:
   - "**/.DS_Store"
-  - "**/*.{c,cpp,h,hpp,java,log,markdown,md,mk,o,orig,rdoc,txt}"
+  - "**/*.{c,cpp,h,hpp,java,log,markdown,md,mk,o,orig,rdoc}"
   - "**/gem_make.out"
   - "**/Makefile"
   - "**/TAGS"
